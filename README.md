@@ -1,16 +1,35 @@
-## Hi there 👋
+# Welcome to My World of Tech! 🚀
 
-<!--
-**gopal031119/gopal031119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there, I'm Gopal Sakhwala! 👋
+[Portfolio](https://gopalsakhwala.vercel.app/) | [Linkedin](https://www.linkedin.com/in/gopalsakhwala/) | [Blog](https://medium.com/@gopal.sakhwala)
 
-Here are some ideas to get you started:
+### About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥Passionate about pioneering technologies and seasoned in SAP Commerce development.
+
+💻 Thrive in challenging environments with a strong background in system design and microservices architecture.
+
+🌐 Dedicated to crafting dynamic and responsive user interfaces.
+
+🏗️ Love diving into infrastructure roles, working with pipelines, Docker, and Kubernetes for efficient deployment.
+
+🌱 Excited about Spring Boot microservices, leveraging its power and flexibility in application design.
+
+💡 Advocate for clean code and elegant solutions, well-versed in microservices design patterns.
+
+### Tech Stacks:
+
+🔭 Microservices | 📦 Java | 🛠️ Spring | 🛍️ SAP Hybris | ⚛️ React | 🛠️ Git | 🚀 CI/CD (Jenkins, Docker, Kubernetes) | 🔄 Redis
+
+🌐 Web API | 📐 System Design | 🔍 Low Level Design | 🔬 DSA
+
+📊 MongoDB | 🗄️ MySQL
+
+🔧 Responsive Web Design | 🤖 Gen AI | 🧠 Artificial Intelligence
+
+
+### Connect With Me:
+
+📧 Email me at gopalsakhwala18@gmail.com.
+
+🚀 Let's build something extraordinary together!
