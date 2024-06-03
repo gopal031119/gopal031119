@@ -1,11 +1,11 @@
-# Welcome to My World of Tech! 🚀
+# Welcome to My Tech Universe! 🌌
 
 ## Hey there, I'm Gopal Sakhwala! 👋
 [Portfolio](https://gopalsakhwala.vercel.app/) | [Linkedin](https://www.linkedin.com/in/gopalsakhwala/) | [Blog](https://medium.com/@gopal.sakhwala)
 
 ### About Me:
 
-🔥Passionate about pioneering technologies and seasoned in SAP Commerce development.
+🔥 Passionate about pioneering technologies and seasoned in SAP Commerce development.
 
 💻 Thrive in challenging environments with a strong background in system design and microservices architecture.
 
