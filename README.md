@@ -19,13 +19,15 @@
 
 ### Tech Stacks:
 
-🔭 Microservices | 📦 Java | 🛠️ Spring | 🛍️ SAP Hybris | ⚛️ React | 🛠️ Git | 🚀 CI/CD (Jenkins, Docker, Kubernetes) | 🔄 Redis
+```bash
+🔭 Microservices | Java | Spring | SAP Hybris | React | Git | CI/CD (Jenkins, Docker, Kubernetes) | Redis
 
-🌐 Web API | 📐 System Design | 🔍 Low Level Design | 🔬 DSA
+🌐 Web API | System Design | Low Level Design | DSA
 
-📊 MongoDB | 🗄️ MySQL
+📊 MongoDB |  MySQL
 
-🔧 Responsive Web Design | 🤖 Gen AI | 🧠 Artificial Intelligence
+🔧 Responsive Web Design | Gen AI | Artificial Intelligence
+```
 
 
 ### Connect With Me:
